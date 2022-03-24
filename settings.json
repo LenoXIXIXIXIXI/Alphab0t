@@ -1,6 +1,7 @@
 {
     "self_mode": false,
 	"autobio": false,
+	"autovn": false,
 	"msg_connected": false,
 	"user_register": false,
 	"anti_delete" : false,
@@ -9,13 +10,13 @@
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumberr": "62887435047326",
-	"ownername": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-	"botname":"Alphabot",
-	"thumb":"thumbnail_1.jpg",
-	"thumbnail":"thumbnail_2_1.jpg",
-	"fakethumb":"thumbnail_1.jpg", 
-	"donasi":"donasi.jpg",
+	"ownerNumberr": "6283861230413",
+	"ownername": "ᴘʀᴏꜰᴇꜱɪᴏɴᴀʟ ʙᴏᴛ",
+	"botname":"ᴘʀᴏꜰᴇꜱɪᴏɴᴀʟ ʙᴏᴛ",
+	"thumb":"img1.jpg",
+	"thumbnail":"img1.jpg",
+	"fakethumb":"img1.jpg", 
+	"donasi":"img1.jpg",
 	"captionpay":"Scan untuk melakukan pembayaran",
-	"fake": " 「  ALPHABOT  」\nCreated By ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+	"fake": " 「  ᴘʀᴏꜰᴇꜱɪᴏɴᴀʟ ʙᴏᴛ  」\nCreated ʙʏ ᴘʀᴏꜰᴇꜱɪᴏɴᴀʟ ʙᴏᴛ"
 }
