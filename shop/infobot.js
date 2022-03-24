@@ -19,16 +19,16 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 🛑 RAM : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 📈 MCC : ${mcc}
 📉 MNC : ${mnc}
-📊 OS Version : ${os_version}
-📫 Merk Hp : ${device_manufacturer}
-📮 Versi Hp : ${device_model}
+📊 OS Version : IOS 15
+📫 Merk Hp : IPHONE 13
+📮 Versi Hp : 13
 
 
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
-⛎ Api : api-alphabot.herokuapp.com
-♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeone-ofc.github.io
+⛎ Api : 
+♈ YouTube : 
+♉ Github : 
 `}
 
 exports.infobot = infobot
